@@ -8,4 +8,4 @@ PHP Sesssion 2022
 2. POO 2
 
 
-Goodby git .....test for reset !
+Goodby git .....test !
