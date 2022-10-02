@@ -14,3 +14,4 @@ Deleting the feature1 branch and add new commit to dev !
 Deleting the dev branch
 Adding the new dev branch
 finaly we can come back to the classic workflow on dev !
+Ending here with a compare and pull request
