@@ -7,13 +7,8 @@ PHP Sesssion 2022
 1. POO 1
 2. POO 2
 
-
 Goodby git .....test add content to dev branch!
 Goodby git .....test a new_feature1 branch for workflow !
-<<<<<<< HEAD
-Deleting the feature1 branch and add new commit to dev !
-=======
 Deleting the feature1 branch and add new commit to dev !
 Deleting the dev branch
 Adding the new dev branch
->>>>>>> 980afb54492b06512a060f597ac6060f5aa5944e
