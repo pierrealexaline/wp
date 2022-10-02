@@ -12,3 +12,4 @@ Goodby git .....test add content to dev branch!
 Goodby git .....test a new_feature1 branch for workflow !
 Deleting the feature1 branch and add new commit to dev !
 Deleting the dev branch
+Adding the new dev branch
